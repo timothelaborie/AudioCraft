@@ -7,14 +7,14 @@
 
 ## Application Description
 
-This is a tool that converts images into music using a combination of 3 AI models. Also has webcam support. [We achieved third place](https://lablab.ai/event/audiocraft-24-hours-hackathon/audiophiles/music-mood-app-genz-music-generator)
+This is a tool that converts images into music using a combination of 3 AI models. Also has webcam support.
 
 ## Demo App URL:
 https://timothelaborie.github.io/AudioCraft/
 
 ## Video Demo / Hackathon Link
 
-https://lablab.ai/event/audiocraft-24-hours-hackathon/audiophiles/music-mood-app-genz-music-generator
+We achieved third place: https://lablab.ai/event/audiocraft-24-hours-hackathon/audiophiles/music-mood-app-genz-music-generator
 
 ## Technology Stack
 
