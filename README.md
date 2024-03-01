@@ -10,7 +10,7 @@
 This is a tool that converts images into music using a combination of 3 AI models. Also has webcam support.
 
 ## Demo App URL:
-https://timothelaborie.github.io/AudioCraft/
+https://timothelaborie.github.io/AudioCraft/ (no longer working)
 
 ## Video Demo / Hackathon Link
 
